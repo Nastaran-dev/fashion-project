@@ -32,6 +32,9 @@ screenshot from my project...
 <img width="1920" height="763" alt="Document - Google Chrome 9_4_2025 7_15_40 AM" src="https://github.com/user-attachments/assets/b558fd87-ffde-41d0-a66b-f58c90b3b746" />
 
 
+
+دوره فرنت اند :  https://trainingsitedesign.ir/learn-web-design/
+
 <ul>
   <li><a href="https://nastaran-dev.github.io/fashion-project/" class="demo-link">Demo Project</a></li>
 </ul>
