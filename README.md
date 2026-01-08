@@ -33,8 +33,6 @@ screenshot from my project...
 
 
 
-دوره فرنت اند :  https://trainingsitedesign.ir/learn-web-design/
-
 <ul>
   <li><a href="https://nastaran-dev.github.io/fashion-project/" class="demo-link">Demo Project</a></li>
 </ul>
